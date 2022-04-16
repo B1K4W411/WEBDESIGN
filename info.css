@@ -1,0 +1,60 @@
+.rainbow-one {
+    background-color: red;
+    color: var(--lightfont);
+    padding-left: 25px;
+    padding-right: 25px
+}
+
+.rainbow-two {
+    background-color: darkorange;
+    color: var(--darkfont);
+    padding-left: 25px;
+    padding-right: 25px
+}
+
+.rainbow-three {
+    background-color: yellow;
+    color: var(--darkfont);
+    padding-left: 25px;
+    padding-right: 25px
+}
+
+.rainbow-four {
+    background-color: darkgreen;
+    color: var(--lightfont);
+    padding-left: 25px;
+    padding-right: 25px
+}
+
+.rainbow-five {
+    background-color: darkblue;
+    color: var(--lightfont);
+    padding-left: 25px;
+    padding-right: 25px
+}
+
+.rainbow-six {
+    background-color: #4b0082;
+    color: var(--lightfont);
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.rainbow-seven {
+    background-color: #ee82ee;
+    color: var(--darkfont);
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.main-table {
+    background-color: darkslategrey;
+    color: var(--lightfont);
+    padding-left: 50px;
+    padding-right: 50px
+}
+
+ :root {
+    --lightfont: white;
+    --darkfont: black;
+}

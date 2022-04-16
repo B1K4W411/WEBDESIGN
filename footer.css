@@ -1,0 +1,14 @@
+.link {
+    text-decoration: none;
+    color: red;
+    font-weight: 900;
+}
+
+.footer {
+    color: white
+}
+
+.footer-design {
+    position: absolute;
+    bottom: 0%;
+}
